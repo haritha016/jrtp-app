@@ -8,4 +8,8 @@ class Demo2{
 
     }
 
+    public void m4(){
+        
+    }
+
 }
